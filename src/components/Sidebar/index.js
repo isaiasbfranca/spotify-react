@@ -54,7 +54,7 @@ const Sidebar = () => (
           <span>PLAYLISTS</span>
         </li>
         <li>
-          <a href="">Pagode 2019</a>
+          <a href="#">Pagode 2019</a>
         </li>
       </Nav>
     </div>
